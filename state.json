@@ -1,0 +1,71 @@
+{
+    "quizzes": [
+        {
+            "question": "탄수화물 1g은 몇 kcal의 에너지를 제공할까요?",
+            "choices": [
+                "2 kcal",
+                "4 kcal",
+                "7 kcal",
+                "9 kcal"
+            ],
+            "answer": 2,
+            "explanation": "탄수화물은 1g당 약 4 kcal의 에너지를 제공합니다."
+        },
+        {
+            "question": "단백질을 구성하는 기본 단위는 무엇일까요?",
+            "choices": [
+                "지방산",
+                "포도당",
+                "아미노산",
+                "글리세롤"
+            ],
+            "answer": 3,
+            "explanation": "단백질은 아미노산이 연결되어 만들어집니다."
+        },
+        {
+            "question": "지방 1g은 몇 kcal의 에너지를 제공할까요?",
+            "choices": [
+                "4 kcal",
+                "5 kcal",
+                "7 kcal",
+                "9 kcal"
+            ],
+            "answer": 4,
+            "explanation": "지방은 1g당 약 9 kcal의 에너지를 제공합니다."
+        },
+        {
+            "question": "비타민 C가 풍부한 과일은 무엇일까요?",
+            "choices": [
+                "오렌지",
+                "쌀",
+                "달걀",
+                "식빵"
+            ],
+            "answer": 1,
+            "explanation": "오렌지와 같은 감귤류 과일에는 비타민 C가 풍부합니다."
+        },
+        {
+            "question": "뼈와 치아를 구성하는 데 중요한 무기질은 무엇일까요?",
+            "choices": [
+                "철분",
+                "칼슘",
+                "나트륨",
+                "요오드"
+            ],
+            "answer": 2,
+            "explanation": "칼슘은 뼈와 치아를 구성하고 유지하는 데 중요한 무기질입니다."
+        },
+        {
+            "question": "비타민D의 주요 기능은 무엇일까요?",
+            "choices": [
+                "혈액 응고",
+                "칼슘 흡수 촉진",
+                "에너지 공급",
+                "단백질 합성"
+            ],
+            "answer": 2,
+            "explanation": "비타민D는 칼슘과 인의 흡수를 도와 뼈 건강에 중요합니다."
+        }
+    ],
+    "best_score": 6
+}

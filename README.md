@@ -40,3 +40,12 @@ cd My_Nutrition_Quiz
 ## Git 동기화 실습
 
 별도의 폴더에 저장소를 복제한 뒤 README를 수정하고, 원본 저장소에서 Pull을 실행하여 변경 사항을 반영하는 과정을 실습했습니다.
+
+## 파일 구조
+
+```text
+My_Nutrition_Quiz/
+├── main.py          # 퀴즈 프로그램의 실행 및 핵심 기능
+├── state.json       # 퀴즈 데이터와 최고 점수 저장
+├── .gitignore       # Git에서 제외할 파일과 폴더 지정
+└── README.md        # 프로젝트 소개 및 사용 설명서
